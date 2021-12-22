@@ -12,6 +12,7 @@ This repository contains a list of ZKP-related web resources.
 ## Blogs
 - A Security Site [[link]](https://asecuritysite.com/)
 - [Blog_2019] Security Risks in Zero Knowledge Proof Cryptocurrencies [[link]](https://blogs.360.cn/post/Security-Risks-in-Zero-Knowledge-Proof-Cryptocurrencies.html)
+- [Blog_2020] How to use libsnark (In Chinese). [[link]](https://secbit.io/blog/2020/01/03/zkp-learn-by-coding-libsnark-101/)
 
 
 ## Vedios
